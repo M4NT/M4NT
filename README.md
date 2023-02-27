@@ -2,10 +2,6 @@
 
 👋 Hi, I'm @M4NT (or Yan Mantovani). I'm 18 years old and I'm starting in the programming world recently. I am currently taking the Internet Systems course at Fatec Taquaritinga (🇧🇷);
 
-💼 I'm working as an intern at @AccesysSolutions as a Helpdesk.;
-
-🌱 I'm learning Front-end and Back-end. In the future I intend to become a full stack dev to work on entire projects;
-
 <div align="center">
   <a href="https://github.com/M4NT">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M4NT&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
