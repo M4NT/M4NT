@@ -1,6 +1,4 @@
-### Hey, how are you? I'm Yan. 😎
-
-👋 Hi, I'm @M4NT (or Yan Mantovani). I'm 18 years old and I'm starting in the programming world recently. I am currently taking the Internet Systems course at Fatec Taquaritinga (🇧🇷);
+### I'm Yan. 😎
 
 <div align="center">
   <a href="https://github.com/M4NT">
