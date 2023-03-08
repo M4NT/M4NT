@@ -12,7 +12,7 @@
   <img align="center" alt="Yan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Yan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Yan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Yan-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/p37zQEvmBhwLipmiqV/giphy.gif">
+  <img align="right" alt="Yan-pic" height="150" style="border-radius:50px;" src="https://giphy.com/embed/5Zesu5VPNGJlm">
 </div>
   
   ##
